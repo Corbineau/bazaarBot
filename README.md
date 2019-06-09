@@ -1,5 +1,6 @@
 bazaarBot
 =========
+**forked for analysis and conversion to JS.
 
 A simple agent-based free market simulator engine.
 
